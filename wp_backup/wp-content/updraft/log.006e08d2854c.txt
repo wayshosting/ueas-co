@@ -1,0 +1,217 @@
+0000.007 (0) Opened log file at time: Sat, 19 Oct 2013 01:17:30 +0000
+0000.008 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.7.20 WP: 3.6.1 PHP: 5.3.27 (Linux cp.serverslot.com 2.6.32-358.11.1.el6.x86_64 #1 SMP Wed Jun 12 03:34:52 UTC 2013 x86_64) MySQL: 5.5.32-cll Server: Apache safe_mode: 1 max_execution_time: 30 memory_limit: 50M (used: 36.9M | 37.3M) ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 196712.8 Mb
+0000.011 (0) Tasks: Backup files:  (schedule: monthly) Backup DB: 1 (schedule: daily)
+0000.011 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.039 (0) Requesting semaphore lock (d)
+0000.040 (0) Set semaphore last lock (d) time to 2013-10-19 01:17:30
+0000.040 (0) Semaphore lock (d) complete.
+0000.042 (0) Backup run: resumption=0, nonce=006e08d2854c, begun at=1382145450 (0s ago), job type=backup
+0000.043 (0) Scheduling a resumption (1) after 300 seconds (1382145750) in case this run gets aborted
+0000.054 (0) Checking if we have a zip executable available
+0000.054 (0) This backup run is not intended for files - skipping
+0000.055 (0) Saving backup status to database (elements: 0)
+0000.056 (0) Beginning creation of database dump
+0000.249 (0) Table nn9dn9ry_options: Total expected rows (approximate): 374
+0000.303 (0) Table nn9dn9ry_options: Total rows added: 374 in 0.05 seconds
+0000.304 (0) Table nn9dn9ry_options: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_options.table.gz)
+0000.307 (0) Table nn9dn9ry_users: Total expected rows (approximate): 2
+0000.468 (0) Table nn9dn9ry_users: Total rows added: 2 in 0.16 seconds
+0000.469 (0) Table nn9dn9ry_users: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_users.table.gz)
+0000.472 (0) Table nn9dn9ry_usermeta: Total expected rows (approximate): 72
+0000.474 (0) Table nn9dn9ry_usermeta: Total rows added: 72 in 0.00 seconds
+0000.475 (0) Table nn9dn9ry_usermeta: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_usermeta.table.gz)
+0000.478 (0) Table nn9dn9ry_commentmeta: Total expected rows (approximate): 0
+0000.479 (0) Table nn9dn9ry_commentmeta: Total rows added: 0 in 0.00 seconds
+0000.479 (0) Table nn9dn9ry_commentmeta: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_commentmeta.table.gz)
+0000.482 (0) Table nn9dn9ry_comments: Total expected rows (approximate): 0
+0000.483 (0) Table nn9dn9ry_comments: Total rows added: 0 in 0.00 seconds
+0000.484 (0) Table nn9dn9ry_comments: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_comments.table.gz)
+0000.487 (0) Table nn9dn9ry_links: Total expected rows (approximate): 0
+0000.488 (0) Table nn9dn9ry_links: Total rows added: 0 in 0.00 seconds
+0000.488 (0) Table nn9dn9ry_links: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_links.table.gz)
+0000.493 (0) Table nn9dn9ry_postmeta: Total expected rows (approximate): 414
+0000.504 (0) Table nn9dn9ry_postmeta: Total rows added: 414 in 0.01 seconds
+0000.506 (0) Table nn9dn9ry_postmeta: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_postmeta.table.gz)
+0000.511 (0) Table nn9dn9ry_posts: Total expected rows (approximate): 226
+0000.571 (0) Table nn9dn9ry_posts: Total rows added: 226 in 0.06 seconds
+0000.573 (0) Table nn9dn9ry_posts: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_posts.table.gz)
+0000.576 (0) Table nn9dn9ry_term_relationships: Total expected rows (approximate): 28
+0000.577 (0) Table nn9dn9ry_term_relationships: Total rows added: 28 in 0.00 seconds
+0000.578 (0) Table nn9dn9ry_term_relationships: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_term_relationships.table.gz)
+0000.581 (0) Table nn9dn9ry_term_taxonomy: Total expected rows (approximate): 5
+0000.582 (0) Table nn9dn9ry_term_taxonomy: Total rows added: 5 in 0.00 seconds
+0000.583 (0) Table nn9dn9ry_term_taxonomy: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_term_taxonomy.table.gz)
+0000.585 (0) Table nn9dn9ry_terms: Total expected rows (approximate): 5
+0000.586 (0) Table nn9dn9ry_terms: Total rows added: 5 in 0.00 seconds
+0000.587 (0) Table nn9dn9ry_terms: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_terms.table.gz)
+0000.588 (0) Table _adittrack_entries: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-_adittrack_entries.table.gz)
+0000.589 (0) Table dbt_certificate_manager: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-dbt_certificate_manager.table.gz)
+0000.590 (0) Table df_sys_translations: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-df_sys_translations.table.gz)
+0000.595 (0) Table nn9dn9ry_bpspro_login_security: Total expected rows (approximate): 0
+0000.596 (0) Table nn9dn9ry_bpspro_login_security: Total rows added: 0 in 0.00 seconds
+0000.596 (0) Table nn9dn9ry_bpspro_login_security: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bpspro_login_security.table.gz)
+0000.599 (0) Table nn9dn9ry_bpspro_seclog_ignore: Total expected rows (approximate): 0
+0000.600 (0) Table nn9dn9ry_bpspro_seclog_ignore: Total rows added: 0 in 0.00 seconds
+0000.600 (0) Table nn9dn9ry_bpspro_seclog_ignore: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bpspro_seclog_ignore.table.gz)
+0000.603 (0) Table nn9dn9ry_bwps_lockouts: Total expected rows (approximate): 5
+0000.604 (0) Table nn9dn9ry_bwps_lockouts: Total rows added: 5 in 0.00 seconds
+0000.605 (0) Table nn9dn9ry_bwps_lockouts: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bwps_lockouts.table.gz)
+0000.608 (0) Table nn9dn9ry_bwps_log: Total expected rows (approximate): 203
+0000.965 (0) Table nn9dn9ry_bwps_log: Total rows added: 203 in 0.36 seconds
+0000.967 (0) Table nn9dn9ry_bwps_log: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bwps_log.table.gz)
+0000.971 (0) Table nn9dn9ry_cp_easy_form_settings: Total expected rows (approximate): 1
+0000.985 (0) Table nn9dn9ry_cp_easy_form_settings: Total rows added: 1 in 0.02 seconds
+0000.985 (0) Table nn9dn9ry_cp_easy_form_settings: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_cp_easy_form_settings.table.gz)
+0000.989 (0) Table nn9dn9ry_formmaker: Total expected rows (approximate): 0
+0000.990 (0) Table nn9dn9ry_formmaker: Total rows added: 0 in 0.00 seconds
+0000.990 (0) Table nn9dn9ry_formmaker: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker.table.gz)
+0000.993 (0) Table nn9dn9ry_formmaker_submits: Total expected rows (approximate): 0
+0000.994 (0) Table nn9dn9ry_formmaker_submits: Total rows added: 0 in 0.00 seconds
+0000.995 (0) Table nn9dn9ry_formmaker_submits: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_submits.table.gz)
+0000.997 (0) Table nn9dn9ry_formmaker_themes: Total expected rows (approximate): 0
+0000.998 (0) Table nn9dn9ry_formmaker_themes: Total rows added: 0 in 0.00 seconds
+0000.999 (0) Table nn9dn9ry_formmaker_themes: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_themes.table.gz)
+0001.002 (0) Table nn9dn9ry_formmaker_views: Total expected rows (approximate): 0
+0001.003 (0) Table nn9dn9ry_formmaker_views: Total rows added: 0 in 0.00 seconds
+0001.004 (0) Table nn9dn9ry_formmaker_views: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_views.table.gz)
+0001.006 (0) Table nn9dn9ry_wfBadLeechers: Total expected rows (approximate): 0
+0001.007 (0) Table nn9dn9ry_wfBadLeechers: Total rows added: 0 in 0.00 seconds
+0001.008 (0) Table nn9dn9ry_wfBadLeechers: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBadLeechers.table.gz)
+0001.011 (0) Table nn9dn9ry_wfBlocks: Total expected rows (approximate): 0
+0001.011 (0) Table nn9dn9ry_wfBlocks: Total rows added: 0 in 0.00 seconds
+0001.012 (0) Table nn9dn9ry_wfBlocks: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBlocks.table.gz)
+0001.015 (0) Table nn9dn9ry_wfBlocksAdv: Total expected rows (approximate): 0
+0001.015 (0) Table nn9dn9ry_wfBlocksAdv: Total rows added: 0 in 0.00 seconds
+0001.016 (0) Table nn9dn9ry_wfBlocksAdv: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBlocksAdv.table.gz)
+0001.019 (0) Table nn9dn9ry_wfConfig: Total expected rows (approximate): 87
+0001.021 (0) Table nn9dn9ry_wfConfig: Total rows added: 87 in 0.00 seconds
+0001.022 (0) Table nn9dn9ry_wfConfig: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfConfig.table.gz)
+0001.024 (0) Table nn9dn9ry_wfCrawlers: Total expected rows (approximate): 2
+0001.041 (0) Table nn9dn9ry_wfCrawlers: Total rows added: 2 in 0.02 seconds
+0001.042 (0) Table nn9dn9ry_wfCrawlers: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfCrawlers.table.gz)
+0001.046 (0) Table nn9dn9ry_wfFileMods: Total expected rows (approximate): 0
+0001.047 (0) Table nn9dn9ry_wfFileMods: Total rows added: 0 in 0.00 seconds
+0001.048 (0) Table nn9dn9ry_wfFileMods: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfFileMods.table.gz)
+0001.051 (0) Table nn9dn9ry_wfHits: Total expected rows (approximate): 1179
+0001.160 (0) Table nn9dn9ry_wfHits: Total rows added: 1179 in 0.11 seconds
+0001.162 (0) Table nn9dn9ry_wfHits: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfHits.table.gz)
+0001.165 (0) Table nn9dn9ry_wfHoover: Total expected rows (approximate): 0
+0001.166 (0) Table nn9dn9ry_wfHoover: Total rows added: 0 in 0.00 seconds
+0001.167 (0) Table nn9dn9ry_wfHoover: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfHoover.table.gz)
+0001.169 (0) Table nn9dn9ry_wfIssues: Total expected rows (approximate): 1
+0001.183 (0) Table nn9dn9ry_wfIssues: Total rows added: 1 in 0.01 seconds
+0001.184 (0) Table nn9dn9ry_wfIssues: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfIssues.table.gz)
+0001.186 (0) Table nn9dn9ry_wfLeechers: Total expected rows (approximate): 28
+0001.188 (0) Table nn9dn9ry_wfLeechers: Total rows added: 28 in 0.00 seconds
+0001.188 (0) Table nn9dn9ry_wfLeechers: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLeechers.table.gz)
+0001.191 (0) Table nn9dn9ry_wfLockedOut: Total expected rows (approximate): 0
+0001.192 (0) Table nn9dn9ry_wfLockedOut: Total rows added: 0 in 0.00 seconds
+0001.192 (0) Table nn9dn9ry_wfLockedOut: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLockedOut.table.gz)
+0001.195 (0) Table nn9dn9ry_wfLocs: Total expected rows (approximate): 0
+0001.196 (0) Table nn9dn9ry_wfLocs: Total rows added: 0 in 0.00 seconds
+0001.197 (0) Table nn9dn9ry_wfLocs: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLocs.table.gz)
+0001.200 (0) Table nn9dn9ry_wfLogins: Total expected rows (approximate): 119
+0001.321 (0) Table nn9dn9ry_wfLogins: Total rows added: 119 in 0.12 seconds
+0001.322 (0) Table nn9dn9ry_wfLogins: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLogins.table.gz)
+0001.325 (0) Table nn9dn9ry_wfNet404s: Total expected rows (approximate): 0
+0001.326 (0) Table nn9dn9ry_wfNet404s: Total rows added: 0 in 0.00 seconds
+0001.326 (0) Table nn9dn9ry_wfNet404s: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfNet404s.table.gz)
+0001.329 (0) Table nn9dn9ry_wfReverseCache: Total expected rows (approximate): 1
+0001.349 (0) Table nn9dn9ry_wfReverseCache: Total rows added: 1 in 0.02 seconds
+0001.358 (0) Table nn9dn9ry_wfReverseCache: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfReverseCache.table.gz)
+0001.361 (0) Table nn9dn9ry_wfScanners: Total expected rows (approximate): 0
+0001.362 (0) Table nn9dn9ry_wfScanners: Total rows added: 0 in 0.00 seconds
+0001.363 (0) Table nn9dn9ry_wfScanners: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfScanners.table.gz)
+0001.365 (0) Table nn9dn9ry_wfStatus: Total expected rows (approximate): 996
+0001.430 (0) Table nn9dn9ry_wfStatus: Total rows added: 996 in 0.07 seconds
+0001.438 (0) Table nn9dn9ry_wfStatus: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfStatus.table.gz)
+0001.441 (0) Table nn9dn9ry_wfThrottleLog: Total expected rows (approximate): 0
+0001.442 (0) Table nn9dn9ry_wfThrottleLog: Total rows added: 0 in 0.00 seconds
+0001.443 (0) Table nn9dn9ry_wfThrottleLog: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfThrottleLog.table.gz)
+0001.445 (0) Table nn9dn9ry_wfVulnScanners: Total expected rows (approximate): 0
+0001.446 (0) Table nn9dn9ry_wfVulnScanners: Total rows added: 0 in 0.00 seconds
+0001.447 (0) Table nn9dn9ry_wfVulnScanners: finishing file (backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfVulnScanners.table.gz)
+0001.448 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_options.table.gz: adding to final database dump
+0001.491 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_users.table.gz: adding to final database dump
+0001.492 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_usermeta.table.gz: adding to final database dump
+0001.493 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_commentmeta.table.gz: adding to final database dump
+0001.494 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_comments.table.gz: adding to final database dump
+0001.495 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_links.table.gz: adding to final database dump
+0001.496 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_postmeta.table.gz: adding to final database dump
+0001.500 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_posts.table.gz: adding to final database dump
+0001.510 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_term_relationships.table.gz: adding to final database dump
+0001.511 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_term_taxonomy.table.gz: adding to final database dump
+0001.512 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_terms.table.gz: adding to final database dump
+0001.512 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-_adittrack_entries.table.gz: adding to final database dump
+0001.513 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-dbt_certificate_manager.table.gz: adding to final database dump
+0001.514 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-df_sys_translations.table.gz: adding to final database dump
+0001.514 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bpspro_login_security.table.gz: adding to final database dump
+0001.515 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bpspro_seclog_ignore.table.gz: adding to final database dump
+0001.515 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bwps_lockouts.table.gz: adding to final database dump
+0001.516 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_bwps_log.table.gz: adding to final database dump
+0001.579 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_cp_easy_form_settings.table.gz: adding to final database dump
+0001.581 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker.table.gz: adding to final database dump
+0001.582 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_submits.table.gz: adding to final database dump
+0001.583 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_themes.table.gz: adding to final database dump
+0001.583 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_formmaker_views.table.gz: adding to final database dump
+0001.584 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBadLeechers.table.gz: adding to final database dump
+0001.585 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBlocks.table.gz: adding to final database dump
+0001.585 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfBlocksAdv.table.gz: adding to final database dump
+0001.586 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfConfig.table.gz: adding to final database dump
+0001.587 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfCrawlers.table.gz: adding to final database dump
+0001.588 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfFileMods.table.gz: adding to final database dump
+0001.589 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfHits.table.gz: adding to final database dump
+0001.602 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfHoover.table.gz: adding to final database dump
+0001.603 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfIssues.table.gz: adding to final database dump
+0001.604 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLeechers.table.gz: adding to final database dump
+0001.605 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLockedOut.table.gz: adding to final database dump
+0001.606 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLocs.table.gz: adding to final database dump
+0001.607 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfLogins.table.gz: adding to final database dump
+0001.609 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfNet404s.table.gz: adding to final database dump
+0001.609 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfReverseCache.table.gz: adding to final database dump
+0001.610 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfScanners.table.gz: adding to final database dump
+0001.611 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfStatus.table.gz: adding to final database dump
+0001.618 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfThrottleLog.table.gz: adding to final database dump
+0001.619 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db-table-nn9dn9ry_wfVulnScanners.table.gz: adding to final database dump
+0001.620 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz: finished writing out complete database file (512 Kb)
+0001.623 (0) Total database tables backed up: 42
+0001.624 (0) Saving backup history
+0001.626 (0) backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0001.626 (0) Decremented the semaphore (d) by 1.
+0001.627 (0) Semaphore (d) unlocked.
+0001.627 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0001.629 (0) Cloud backup selection: dropbox
+0001.629 (0) Beginning dispatch of backup to remote (dropbox)
+0001.630 (0) Dropbox: begin cloud upload
+0001.678 (0) Dropbox: access gained
+0002.325 (0) Dropbox quota usage: normal=123.4 Mb, shared=0 Mb, total=2048 Mb, available=1924.6 Mb
+0002.326 (0) Dropbox: Attempt to upload: backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz to: backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz
+0003.269 (0) Dropbox chunked upload: 95.7 % uploaded (nRIOCbxm988hs7QVqWsoig, 524288)
+0003.984 (0) Dropbox chunked upload: 100 % uploaded (nRIOCbxm988hs7QVqWsoig, 547576)
+0004.895 (0) Recording as successfully uploaded: backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz (bd2a083c1413e07eafdb3933f20e1519)
+0004.897 (0) Deleting local file: backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz
+0004.898 (0) Dropbox: File upload success (backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz): 534 Kb in 2s (207 Kb/s)
+0004.899 (0) Retain: beginning examination of existing backup sets
+0004.899 (0) Retain files: user setting: number to retain = 1
+0004.900 (0) Retain db: user setting: number to retain = 1
+0004.900 (0) Number of backup sets in history: 3
+0004.901 (0) Examining backup set with datestamp: 1382145450
+0004.902 (0) 1382145450: this set includes a database (backup_2013-10-19-0217_UEAS_006e08d2854c-db.gz); db count is now 1
+0004.902 (0) 1382145450: this backup set remains non-empty; will retain in history
+0004.903 (0) Examining backup set with datestamp: 1382100789
+0004.903 (0) 1382100789: this set includes a database (backup_2013-10-18-1353_UEAS_c433cfac0801-db.gz); db count is now 2
+0004.904 (0) 1382100789: over retain limit (1); will delete this database
+0004.904 (0) Delete file: backup_2013-10-18-1353_UEAS_c433cfac0801-db.gz, service=dropbox
+0004.905 (0) Dropbox: request deletion: backup_2013-10-18-1353_UEAS_c433cfac0801-db.gz
+0006.506 (0) Dropbox: delete succeeded
+0006.507 (0) 1382100789: this backup set is now empty; will remove from history
+0006.508 (0) 1382100789: deleting log file (log.c433cfac0801.txt)
+0006.509 (0) Examining backup set with datestamp: 1379775854
+0006.509 (0) 1379775854: this set includes files; fileset count is now 1
+0006.510 (0) 1379775854: this backup set remains non-empty; will retain in history
+0006.510 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0006.511 (0) Resume backup (006e08d2854c, 0): finish run
+0006.512 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0006.515 (0) Sending email ('Database only (files were not part of this particular schedule)') report to: domai...
+0007.654 (0) The backup apparently succeeded and is now complete
